@@ -141,3 +141,20 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# --- KİNEZİ-AI ÖZEL EKLENTİLERİ ---
+
+# Expo ve React Native Derlemeleri
+.expo/
+web-build/
+ios/
+android/
+
+# İşletim Sistemi ve Geliştirme Ortamı (IDE)
+.DS_Store
+.vscode/
+.idea/
+
+# Python Betik Önbellekleri
+__pycache__/
+*.py[cod]
